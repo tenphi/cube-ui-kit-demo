@@ -79,7 +79,7 @@ export function TopBar({ styles, ...props }) {
                   <Button type="clear" to="@/docs" padding="3x">
                     <Flow gap>
                       <Text display="block" fontWeight={500} color="#dark" preset="p2">Examples</Text>
-                      <Text display="block" color="#minor" fontWeight={400} preset="p2">See what's possible with Cube</Text>
+                      <Text display="block" color="#minor" fontWeight={400} preset="p2">See what&apos;s possible with Cube</Text>
                     </Flow>
                   </Button>
                 </Flex>

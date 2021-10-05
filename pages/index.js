@@ -36,7 +36,7 @@ export default function Home() {
               We are a remote‑first team distributed all over the globe with an HQ in San Francisco
             </Paragraph>
           </Container>
-          <Image src={aboutIllustration}/>
+          <Image src={aboutIllustration} alt="Globe illustration"/>
         </Container>
       </Section>
 
